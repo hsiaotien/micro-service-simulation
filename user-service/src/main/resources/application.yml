@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/leyou
+    username: root
+    password: 123
+mybatis:
+  type-aliases-package: com.dev.producer.pojo
