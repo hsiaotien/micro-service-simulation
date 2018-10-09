@@ -1,2 +1,2 @@
 此示例演进微服务的原型,以及分布式项目的基本实施过程.
-理解spring容器管理,以及RestTemplate如何工作的.....
+理解spring容器管理,以及RestTemplate如何工作!
